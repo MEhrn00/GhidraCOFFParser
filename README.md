@@ -9,7 +9,7 @@ Download the script into the `~/ghidra_scripts` directory.
 
 ```bash
 $ mkdir ~/ghidra_scripts
-$ curl -L https://raw.githubusercontent.com/MEhrn00/Ghidra_COFFParser/main/COFFParser.py -o ~/ghidra_scripts/COFFParser.py
+$ curl -L https://raw.githubusercontent.com/MEhrn00/GhidraCOFFParser/main/COFFParser.py -o ~/ghidra_scripts/COFFParser.py
 ```
 
 In the `Windows -> Script Manager` menu of the CodeBrowser tool, select the `In Tool`
